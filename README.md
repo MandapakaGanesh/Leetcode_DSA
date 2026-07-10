@@ -18,8 +18,14 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
