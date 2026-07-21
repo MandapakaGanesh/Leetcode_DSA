@@ -13,12 +13,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0075-sort-colors) |
 ## Two Pointers
@@ -33,5 +35,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MandapakaGanesh/Leetcode_DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
